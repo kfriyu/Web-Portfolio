@@ -1,0 +1,25 @@
+h1{
+    font-size: 50px;
+    font-family: 'Anton', sans-serif;
+
+}
+.highlight{
+    color:darkcyan;
+}
+.Half-width{
+    width: 50%;
+    text-align:justify;
+    margin: 5%;
+    padding: 2%;
+    float: center;
+    
+}
+.Half-width img{
+    width: 40%;
+    float: right;
+    position: absolute;
+    left: 50%;
+}
+.headline{
+    text-align: center;
+}
